@@ -1,2 +1,3 @@
 # Parking-Lot
-Basic lot program using Java-based program Processing.
+Basic parking lot program using Java-based program Processing.
+
